@@ -111,6 +111,11 @@ header .navegacao-primaria li a:hover::after {
     max-width: 100%;
 }
 
+.section-div span {
+    color: #fff;
+    top: 0;
+}
+
 .digitando::after {
     content: '|';
     margin-left: 5px;
